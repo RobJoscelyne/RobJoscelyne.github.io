@@ -1,4 +1,4 @@
-# Data science portfolio
+# Data scientist
 
 ## Education
 MSc in Artificial Intelligence

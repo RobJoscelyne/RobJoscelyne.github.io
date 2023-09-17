@@ -14,7 +14,7 @@ An image search engine was developed, augmented by the YOLOR object detection al
 
 Information retrieval was examined using the Vector Space Model, Best Matching 25 (BM25), and ELECTRA on the renowned Cranfield collection. The data underwent preprocessing, which involved normalizing texts and removing stop words. Among the models, BM25 performed best with a Mean Average Precision of 0.3137. After fine-tuning, this model was deployed in a Streamlit interface.
 
-![Visualisation text in 3 dimensions](https://www.youtube.com/watch?v=scRwbd8uH6U)
+![VSM](/assets/embedding_projector.jpg)
 
 
 

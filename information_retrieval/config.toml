@@ -1,0 +1,16 @@
+[global]
+sharingMode = "off"
+showWarningOnDirectExecution = false
+
+[server]
+headless = true
+enableCORS = false
+port = 8501
+
+[theme]
+backgroundColor="green"
+secondaryBackgroundColor="#b9bbd0"
+textColor="#f5dddd"
+
+[app]
+title = "Document Search"

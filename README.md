@@ -1,8 +1,5 @@
 # Data science portfolio
 
-## Education
-MSc in Artificial Intelligence
-
 ## Projects
 
 ### Performance analysis of text retrieval models  

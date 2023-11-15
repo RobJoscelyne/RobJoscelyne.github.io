@@ -8,8 +8,6 @@ Information retrieval is crucial as it can provide rapid access to vast amounts 
 
 [Report](https://github.com/RobJoscelyne/robjoscelyne.github.io/blob/a00001bc3f9d72f8b6aa94ab3eec2f39647522e7/assets/Information%20retrieval.pdf)
 
-[Text retrieval app](https://alpaca-search-cranfield-collection.streamlit.app/)
-
 <img src="/assets/embedding_projector.jpg" width="1000">
 
 

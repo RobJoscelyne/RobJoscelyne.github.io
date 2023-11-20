@@ -11,4 +11,9 @@ Information retrieval is crucial as it can provide rapid access to vast amounts 
 <img src="/assets/embedding_projector.jpg" width="1000">
 
 
+### Using data visualisations for airline route planning 
+
+A start-up airline wishes to operate a new short-haul route serving the San Francisco Bay Area. The management team have shortlisted three potential departure airports. Passengers rate airlines' punctuality. Delays and cancellations can cause travellers to avoid the airline or seek cheaper future tickets. For these reasons, the management team must know which airport shall provide the best on-time performance. A visualisation was developed using attention and distraction principles to help effectively communicate the airport with the lowest cancellations and delays. Data preprocessing was performed on a dataset downloaded from the United States Bureau of Transportation Statistics. Dataset queries were developed in Python to match the business objectives: short-haul flights departing in the morning from 1. San Francisco International (SFO), 2. Mineta San Jose International Airport (SJC), and 3. Metropolitan Oakland International (OAK). An interactive visualisation using D3.js was developed and showed that the airport with the best on-time performance was Metropolitan Oakland International. The charts were deployed on GitHub pages and can be accessed here [GitHub demo](https://robjoscelyne.github.io/data_visualisations/)
+
+
 

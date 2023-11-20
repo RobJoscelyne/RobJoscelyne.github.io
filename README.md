@@ -17,4 +17,4 @@ A start-up airline wishes to operate a new short-haul route serving the San Fran
 
 [Report](https://github.com/RobJoscelyne/robjoscelyne.github.io/blob/6c024b99a2f7641a7ddfbd885193bc947aea00f6/assets/data_visualisations_for_route_planning.pdf)
 
-<img src="/assets/embedding_projector.jpg" width="1000">
+<img src="/assets/llama_base.jpg" width="1000">
